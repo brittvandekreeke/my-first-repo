@@ -1,3 +1,3 @@
 # my-first-repo
-![a britt picture](britt.jpg)
-<img src="britt.jpg" alt="a britt picture" width="200">
+![foto van britt](britt.png)
+<img src="britt.png" alt="foto van britt" width="200">
