@@ -1,3 +1,3 @@
 # my-first-repo
-![foto van britt](britt.png)
 <img src="britt.png" alt="foto van britt" width="200">
+Hier volgt een link naar de [website van nu.nl](https://nu.nl), ga snel kijken!
